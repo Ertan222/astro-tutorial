@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22963106-5a62-4d86-85bf-ab8ca42408ea/deploy-status)](https://app.netlify.com/sites/afetertan/deploys)
 # Astro Starter Kit: Minimal
 
 ```
